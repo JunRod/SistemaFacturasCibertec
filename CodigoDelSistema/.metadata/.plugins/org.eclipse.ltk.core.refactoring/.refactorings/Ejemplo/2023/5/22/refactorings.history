@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;txtNombre&apos; in &apos;gui.Ejemplo&apos; to &apos;txtProducto&apos;&#x0D;&#x0A;- Original project: &apos;Ejemplo&apos;&#x0D;&#x0A;- Original element: &apos;gui.Ejemplo.txtNombre&apos;&#x0D;&#x0A;- Renamed element: &apos;gui.Ejemplo.txtProducto&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;txtNombre&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;gui{Ejemplo.java[Ejemplo^txtNombre" name="txtProducto" references="true" setter="false" stamp="1685236228808" textual="false" version="1.0"/>
+</session>
